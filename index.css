@@ -1,0 +1,86 @@
+* {
+    box-sizing: border-box;
+}
+
+header {
+    
+    background: url("images/minions.jpg");
+    width: 75%;
+    padding: 10px 10px 20px 10px;
+    margin: auto;
+
+    
+}
+
+
+#logo {
+    background-color: rgba(0, 0, 139, 0.74);
+    border-radius: 0%;
+    width: 300px;
+    height: 200px;
+    color: white;
+    padding-top: 22px;
+    text-align: center;
+    margin: auto;
+    border-radius: 10%;
+    opacity: 1;
+    position: relative;
+    z-index: 1;
+    box-shadow: black 5px 10px;
+    
+}
+
+h1 {
+
+}
+
+.qwitcher-grypen-bold {
+    font-family: "Qwitcher Grypen", cursive, serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 300%;
+
+  }
+  
+
+body 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(152, 176, 235);
+  }
+
+
+#main {
+   
+    width: 75%;
+    position: relative;
+    text-align: center;
+    background-color: rgb(182, 199, 241);
+    margin: auto;
+    padding: 50px;
+    
+}
+
+table {
+    margin: auto;
+    background-color: rgb(207, 217, 243);
+}
+
+table, td, th {
+    border: solid black 1px;
+    border-collapse: collapse;
+
+    
+  
+}  
+    
+th, td {
+    padding: 10px;
+}
+
+footer {
+    margin: auto;
+    background-color: rgb(182, 199, 241);
+    text-align: center;
+    width: 75%;
+}
